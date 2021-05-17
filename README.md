@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frontender007
 - 👀 I’m interested in everything coding....
 - 🌱 I’m currently learning Java And React JS
-- 💞️ I’m looking to collaborate on any projects that involves these technologies
+- 💞️ I’m looking to collaborate on any projects that involves coding: HTML, CSS, JS, ReactJS and Java
 - 📫 How to reach me @mrcoder2021@gmail.com
 
 <!---
